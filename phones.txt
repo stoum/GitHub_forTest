@@ -1,2 +1,5 @@
 1) IP11
 2) IP12
+3) Samsung s22
+4) Xiaomi p40
+5) Oppo n100
